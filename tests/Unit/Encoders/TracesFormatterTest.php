@@ -1,10 +1,10 @@
 <?php
 
-namespace DdTraceTests\Unit\Encoders;
+namespace OMGDdTraceTests\Unit\Encoders;
 
-use DdTrace\Encoders\TracesFormatter;
-use DdTrace\TracesBuffer;
-use DdTraceTests\Builders\SpanBuilder;
+use OMGDdTrace\Encoders\TracesFormatter;
+use OMGDdTrace\TracesBuffer;
+use OMGDdTraceTests\Builders\SpanBuilder;
 use PHPUnit_Framework_TestCase;
 
 final class TracesFormatterTest extends PHPUnit_Framework_TestCase

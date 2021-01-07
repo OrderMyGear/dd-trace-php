@@ -1,8 +1,8 @@
 <?php
 
-namespace DdTraceTests\Builders;
+namespace OMGDdTraceTests\Builders;
 
-use DdTrace\Span;
+use OMGDdTrace\Span;
 
 class SpanBuilder
 {

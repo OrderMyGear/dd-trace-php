@@ -1,9 +1,9 @@
 <?php
 
-namespace DdTrace\Encoders;
+namespace OMGDdTrace\Encoders;
 
-use DdTrace\Encoder;
-use DdTrace\TracesBuffer;
+use OMGDdTrace\Encoder;
+use OMGDdTrace\TracesBuffer;
 
 class Noop implements Encoder
 {

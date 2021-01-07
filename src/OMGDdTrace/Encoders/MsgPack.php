@@ -1,9 +1,9 @@
 <?php
 
-namespace DdTrace\Encoders;
+namespace OMGDdTrace\Encoders;
 
-use DdTrace\Encoder;
-use DdTrace\TracesBuffer;
+use OMGDdTrace\Encoder;
+use OMGDdTrace\TracesBuffer;
 use MessagePack\Packer;
 
 final class MsgPack implements Encoder

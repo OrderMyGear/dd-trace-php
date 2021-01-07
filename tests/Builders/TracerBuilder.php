@@ -1,10 +1,10 @@
 <?php
 
-namespace DdTraceTests\Builders;
+namespace OMGDdTraceTests\Builders;
 
-use DdTrace\Buffer;
-use DdTrace\Tracer;
-use DdTrace\Transports\Noop as NoopTransport;
+use OMGDdTrace\Buffer;
+use OMGDdTrace\Tracer;
+use OMGDdTrace\Transports\Noop as NoopTransport;
 use Psr\Log\NullLogger;
 
 final class TracerBuilder

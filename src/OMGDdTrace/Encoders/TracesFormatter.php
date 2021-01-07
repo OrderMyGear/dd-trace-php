@@ -1,10 +1,10 @@
 <?php
 
-namespace DdTrace\Encoders;
+namespace OMGDdTrace\Encoders;
 
-use DdTrace\Span;
-use DdTrace\SpansCollection;
-use DdTrace\TracesBuffer;
+use OMGDdTrace\Span;
+use OMGDdTrace\SpansCollection;
+use OMGDdTrace\TracesBuffer;
 use Iterator;
 
 class TracesFormatter

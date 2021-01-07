@@ -1,6 +1,6 @@
 <?php
 
-namespace DdTrace\Ext;
+namespace OMGDdTrace\Ext;
 
 final class AppTypes
 {

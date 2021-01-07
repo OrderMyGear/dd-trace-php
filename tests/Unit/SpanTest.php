@@ -1,9 +1,9 @@
 <?php
 
-namespace DdTraceTests\Unit;
+namespace OMGDdTraceTests\Unit;
 
-use DdTrace\Span;
-use DdTraceTests\Builders\SpanBuilder;
+use OMGDdTrace\Span;
+use OMGDdTraceTests\Builders\SpanBuilder;
 use Exception;
 use InvalidArgumentException;
 use PHPUnit_Framework_TestCase;

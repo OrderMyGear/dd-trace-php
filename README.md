@@ -22,7 +22,7 @@ composer require jcchavezs/dd-trace
 
 ```php
 
-use DdTrace\Tracer;
+use OMGDdTrace\Tracer;
 use GuzzleHttp\Exception\RequestException;
 
 $tracer = Tracer::noop();

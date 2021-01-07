@@ -1,8 +1,8 @@
 <?php
 
-namespace DdTrace\Encoders;
+namespace OMGDdTrace\Encoders;
 
-use DdTrace\EncoderFactory;
+use OMGDdTrace\EncoderFactory;
 
 final class JsonFactory implements EncoderFactory
 {

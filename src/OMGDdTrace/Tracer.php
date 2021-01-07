@@ -1,8 +1,8 @@
 <?php
 
-namespace DdTrace;
+namespace OMGDdTrace;
 
-use DdTrace\Transports\Noop as NoopTransport;
+use OMGDdTrace\Transports\Noop as NoopTransport;
 use Exception;
 use Psr\Log\LoggerInterface;
 use Psr\Log\NullLogger;

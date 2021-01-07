@@ -1,9 +1,9 @@
 <?php
 
-namespace DdTraceTests\Unit;
+namespace OMGDdTraceTests\Unit;
 
-use DdTrace\SpansCollection;
-use DdTraceTests\Builders\SpanBuilder;
+use OMGDdTrace\SpansCollection;
+use OMGDdTraceTests\Builders\SpanBuilder;
 use PHPUnit_Framework_TestCase;
 
 final class SpansCollectionTest extends PHPUnit_Framework_TestCase

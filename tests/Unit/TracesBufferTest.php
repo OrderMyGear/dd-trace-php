@@ -1,9 +1,9 @@
 <?php
 
-namespace DdTraceTests\Unit;
+namespace OMGDdTraceTests\Unit;
 
-use DdTrace\TracesBuffer;
-use DdTraceTests\Builders\SpanBuilder;
+use OMGDdTrace\TracesBuffer;
+use OMGDdTraceTests\Builders\SpanBuilder;
 use PHPUnit_Framework_TestCase;
 
 final class TracesBufferTest extends PHPUnit_Framework_TestCase

@@ -1,12 +1,12 @@
 <?php
 
-namespace DdTraceTests\Unit\Transports;
+namespace OMGDdTraceTests\Unit\Transports;
 
-use DdTrace\Encoder;
-use DdTrace\EncoderFactory;
-use DdTrace\TracesBuffer;
-use DdTrace\Transports\Http;
-use DdTraceTests\Builders\SpanBuilder;
+use OMGDdTrace\Encoder;
+use OMGDdTrace\EncoderFactory;
+use OMGDdTrace\TracesBuffer;
+use OMGDdTrace\Transports\Http;
+use OMGDdTraceTests\Builders\SpanBuilder;
 use GuzzleHttp\ClientInterface;
 use GuzzleHttp\Psr7\Response;
 use PHPUnit_Framework_MockObject_MockObject;

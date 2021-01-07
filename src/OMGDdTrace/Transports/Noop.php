@@ -1,9 +1,9 @@
 <?php
 
-namespace DdTrace\Transports;
+namespace OMGDdTrace\Transports;
 
-use DdTrace\TracesBuffer;
-use DdTrace\Transport;
+use OMGDdTrace\TracesBuffer;
+use OMGDdTrace\Transport;
 
 class Noop implements Transport
 {

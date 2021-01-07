@@ -1,6 +1,6 @@
 <?php
 
-namespace DdTrace;
+namespace OMGDdTrace;
 
 use Psr\Http\Message\ResponseInterface;
 

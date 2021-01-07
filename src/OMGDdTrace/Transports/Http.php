@@ -1,10 +1,10 @@
 <?php
 
-namespace DdTrace\Transports;
+namespace OMGDdTrace\Transports;
 
-use DdTrace\EncoderFactory;
-use DdTrace\TracesBuffer;
-use DdTrace\Transport;
+use OMGDdTrace\EncoderFactory;
+use OMGDdTrace\TracesBuffer;
+use OMGDdTrace\Transport;
 use Exception;
 use GuzzleHttp\ClientInterface;
 use GuzzleHttp\Exception\BadResponseException;

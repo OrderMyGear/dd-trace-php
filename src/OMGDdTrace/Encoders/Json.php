@@ -1,11 +1,11 @@
 <?php
 
-namespace DdTrace\Encoders;
+namespace OMGDdTrace\Encoders;
 
-use DdTrace\Encoder;
-use DdTrace\TracesBuffer;
-use DdTrace\Span;
-use DdTrace\SpansCollection;
+use OMGDdTrace\Encoder;
+use OMGDdTrace\TracesBuffer;
+use OMGDdTrace\Span;
+use OMGDdTrace\SpansCollection;
 
 final class Json implements Encoder
 {

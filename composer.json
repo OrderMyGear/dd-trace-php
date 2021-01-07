@@ -20,10 +20,10 @@
     ],
     "minimum-stability": "stable",
     "autoload": {
-        "psr-4": {"DdTrace\\": "./src/DdTrace/"}
+        "psr-4": {"OMGDdTrace\\": "./src/OMGDdTrace/"}
     },
     "autoload-dev": {
-        "psr-4": {"DdTraceTests\\": "./tests/"}
+        "psr-4": {"OMGDdTraceTests\\": "./tests/"}
     },
     "require-dev": {
         "phpunit/phpunit": "~5.7.19"

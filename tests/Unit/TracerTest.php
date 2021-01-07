@@ -1,10 +1,10 @@
 <?php
 
-namespace DdTraceTests\Unit;
+namespace OMGDdTraceTests\Unit;
 
-use DdTrace\Span;
-use DdTrace\Tracer;
-use DdTraceTests\Builders\TracerBuilder;
+use OMGDdTrace\Span;
+use OMGDdTrace\Tracer;
+use OMGDdTraceTests\Builders\TracerBuilder;
 use PHPUnit_Framework_TestCase;
 
 final class TracerTest extends PHPUnit_Framework_TestCase

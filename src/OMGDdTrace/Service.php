@@ -1,6 +1,6 @@
 <?php
 
-namespace DdTrace;
+namespace OMGDdTrace;
 
 final class Service
 {
