@@ -8,7 +8,7 @@
         "psr/http-message": "^1.0",
         "guzzlehttp/guzzle": "~6.0",
         "jcchavezs/tracing-context": "^0.3.0",
-        "rybakit/msgpack": "^0.2.2",
+        "rybakit/msgpack": "^0.8.0",
         "symfony/polyfill-php70": "^1.2"
     },
     "license": "GPL-3.0",
